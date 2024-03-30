@@ -37,12 +37,12 @@ npm install
 3. Set up environment variables (if necessary):
 cp .env.example .env
 
-##Usage
+## Usage
 To start the development server, run:
 npm start
 Open http://localhost:3000 in your browser to view the website.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1.Fork the repository
@@ -51,7 +51,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4.Push to the branch (git push origin feature/YourFeature)
 5.Create a new Pull Request
 
-License
+## License
 This project is licensed under the MIT License.
 
 You can customize the content under each section to match the specific features, installation steps, usage instructions, contributing guidelines, and license details of your e-commerce website project.
