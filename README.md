@@ -37,19 +37,19 @@ npm install
 3. Set up environment variables (if necessary):
 cp .env.example .env
 
-Usage
+##Usage
 To start the development server, run:
 npm start
 Open http://localhost:3000 in your browser to view the website.
 
-Contributing
+##Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository
-1.Create your feature branch (git checkout -b feature/YourFeature)
-2.Commit your changes (git commit -am 'Add some feature')
-3.Push to the branch (git push origin feature/YourFeature)
-4.Create a new Pull Request
+1.Fork the repository
+2.Create your feature branch (git checkout -b feature/YourFeature)
+3.Commit your changes (git commit -am 'Add some feature')
+4.Push to the branch (git push origin feature/YourFeature)
+5.Create a new Pull Request
 
 License
 This project is licensed under the MIT License.
