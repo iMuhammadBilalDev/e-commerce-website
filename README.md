@@ -40,7 +40,7 @@ cp .env.example .env
 ## Usage
 To start the development server, run:
 npm start
-Open http://localhost:3000 in your browser to view the website.
+Open http://http://localhost:5174 in your browser to view the website.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
