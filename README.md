@@ -57,6 +57,7 @@ Home Page
 
 ![ecomm 1](https://github.com/iMuhammadBilalDev/e-commerce-website/assets/148322893/d4240051-0923-42d9-a0ef-e661ef5e1fcc)
 
-Admin Dashboard
+## Admin Dashboard
 ![admin](https://github.com/iMuhammadBilalDev/e-commerce-website/assets/148322893/3b92c4b1-ac9f-44e6-8efc-a4cd33c12bbb)
-
+## User Dashboard
+![user](https://github.com/iMuhammadBilalDev/e-commerce-website/assets/148322893/cf4731e7-33fc-4401-8e77-e51414ab5c05)
