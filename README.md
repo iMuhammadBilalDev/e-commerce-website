@@ -54,5 +54,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 This project is licensed under the MIT License.
 
-You can customize the content under each section to match the specific features, installation steps, usage instructions, contributing guidelines, and license details of your e-commerce website project.
+![ecomm](https://github.com/iMuhammadBilalDev/e-commerce-website/assets/148322893/ce8c9f4f-c934-47e9-8884-82e19450e3f7)
+
+![ecomm 1](https://github.com/iMuhammadBilalDev/e-commerce-website/assets/148322893/d4240051-0923-42d9-a0ef-e661ef5e1fcc)
 
