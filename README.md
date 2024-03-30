@@ -52,9 +52,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5.Create a new Pull Request
 
 ## License
-This project is licensed under the MIT License.
-
+Home Page
 ![ecomm](https://github.com/iMuhammadBilalDev/e-commerce-website/assets/148322893/ce8c9f4f-c934-47e9-8884-82e19450e3f7)
 
 ![ecomm 1](https://github.com/iMuhammadBilalDev/e-commerce-website/assets/148322893/d4240051-0923-42d9-a0ef-e661ef5e1fcc)
+
+Admin Dashboard
+![admin](https://github.com/iMuhammadBilalDev/e-commerce-website/assets/148322893/3b92c4b1-ac9f-44e6-8efc-a4cd33c12bbb)
 
